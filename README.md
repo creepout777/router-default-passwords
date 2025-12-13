@@ -1,7 +1,7 @@
 # A-quick-way-to-find-the-local-router-s-default-password
 # (⚠️ this is for educational purposes only ⚠️)
 
--Today, i have found an interesting way to find the local router's default password.
+-Today, i have found an interesting way to access several routers.
 
 So while reading through the university course of networking, i found the following command *arp -a* which shows my ARP table, and by searching a little i found out that every MAC address is prefixed by 3 hexadecimal's identifying the Company of the machine.
 
